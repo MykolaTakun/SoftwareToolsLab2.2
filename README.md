@@ -1,2 +1,1 @@
-# SoftwareToolsLab2.2
-Created by Daniel
+Created by Mykola the Man and Daniel the G
